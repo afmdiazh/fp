@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Animal 1",
+    "description": "Descripcion 1",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/1.png"
+  },
+  {
+    "name": "Animal 2",
+    "description": "Descripcion 2",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/2.png"
+  },
+  {
+    "name": "Animal 3",
+    "description": "Descripcion 3",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/3.png"
+  },
+  {
+    "name": "Animal 4",
+    "description": "Descripcion 4",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/4.png"
+  },
+  {
+    "name": "Animal 5",
+    "description": "Descripcion 5",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/5.png"
+  }
+]
