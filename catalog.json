@@ -1,27 +1,27 @@
 [
   {
-    "name": "Animal 1",
-    "description": "Descripcion 1",
+    "name": "Tigre",
+    "description": "Un animal muy bonito y peligroso.",
     "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/1.png"
   },
   {
-    "name": "Animal 2",
-    "description": "Descripcion 2",
+    "name": "Elefante",
+    "description": "Un animal muy grande y fuerte.",
     "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/2.png"
   },
   {
-    "name": "Animal 3",
-    "description": "Descripcion 3",
+    "name": "Leon",
+    "description": "Un animal inofensivo.",
     "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/3.png"
   },
   {
-    "name": "Animal 4",
-    "description": "Descripcion 4",
+    "name": "Tucan",
+    "description": "Un animal poderoso y temible.",
     "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/4.png"
   },
   {
-    "name": "Animal 5",
-    "description": "Descripcion 5",
+    "name": "Ardilla",
+    "description": "Una simple ardilla.",
     "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/5.png"
   }
 ]
