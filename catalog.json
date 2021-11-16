@@ -23,5 +23,20 @@
     "name": "Ardilla",
     "description": "Una simple ardilla.",
     "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/5.png"
+  },
+  {
+    "name": "Rata topo desnuda",
+    "description": "Un animal adorable.",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/6.png"
+  },
+  {
+    "name": "Helicóptero",
+    "description": "Creo que no es un animal.",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/7.png"
+  },
+  {
+    "name": "Brontosaurio",
+    "description": "Es tímido y no quería salir en la foto.",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/8.png"
   }
 ]
