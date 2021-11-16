@@ -38,5 +38,20 @@
     "name": "Brontosaurio",
     "description": "Es tímido y no quería salir en la foto.",
     "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/8.png"
+  },
+  {
+    "name": "Gatito",
+    "description": "Está furioso.",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/9.png"
+  },
+  {
+    "name": "Mapaches",
+    "description": "Una familia de mapaches.",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/10.png"
+  },
+  {
+    "name": "Perrito",
+    "description": "Un perrito. Parece que está triste.",
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/11.png"
   }
 ]
