@@ -2,56 +2,67 @@
   {
     "name": "Tigre",
     "description": "Un animal muy bonito y peligroso.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/1.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/1.png",
+    "confetti": "false"
   },
   {
     "name": "Elefante",
     "description": "Un animal muy grande y fuerte.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/2.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/2.png",
+    "confetti": "false"
   },
   {
     "name": "Leon",
     "description": "Un animal inofensivo.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/3.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/3.png",
+    "confetti": "false"
   },
   {
     "name": "Tucan",
     "description": "Un animal poderoso y temible.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/4.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/4.png",
+    "confetti": "false"
   },
   {
     "name": "Ardilla",
     "description": "Una simple ardilla.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/5.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/5.png",
+    "confetti": "false"
   },
   {
     "name": "Rata topo desnuda",
     "description": "Un animal adorable.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/6.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/6.png",
+    "confetti": "true"
   },
   {
     "name": "Helicóptero",
     "description": "Creo que no es un animal.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/7.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/7.png",
+    "confetti": "true"
   },
   {
     "name": "Brontosaurio",
     "description": "Es tímido y no quería salir en la foto.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/8.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/8.png",
+    "confetti": "false"
   },
   {
     "name": "Gatito",
     "description": "Está furioso.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/9.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/9.png",
+    "confetti": "false"
   },
   {
     "name": "Mapaches",
     "description": "Una familia de mapaches.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/10.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/10.png",
+    "confetti": "false"
   },
   {
     "name": "Perrito",
     "description": "Un perrito. Parece que está triste.",
-    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/11.png"
+    "image_url": "https://raw.githubusercontent.com/afmdiazh/fp/main/11.png",
+    "confetti": "false"
   }
 ]
